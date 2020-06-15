@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactivatech-landing-page/static/css/main.dae92b9d.chunk.css",
+    "main.js": "/reactivatech-landing-page/static/js/main.86b59e15.chunk.js",
+    "main.js.map": "/reactivatech-landing-page/static/js/main.86b59e15.chunk.js.map",
+    "runtime-main.js": "/reactivatech-landing-page/static/js/runtime-main.a5baca36.js",
+    "runtime-main.js.map": "/reactivatech-landing-page/static/js/runtime-main.a5baca36.js.map",
+    "static/js/2.b42a9b19.chunk.js": "/reactivatech-landing-page/static/js/2.b42a9b19.chunk.js",
+    "static/js/2.b42a9b19.chunk.js.map": "/reactivatech-landing-page/static/js/2.b42a9b19.chunk.js.map",
+    "index.html": "/reactivatech-landing-page/index.html",
+    "precache-manifest.7d6ed535c48f614b4419c4cf76db9ba2.js": "/reactivatech-landing-page/precache-manifest.7d6ed535c48f614b4419c4cf76db9ba2.js",
+    "service-worker.js": "/reactivatech-landing-page/service-worker.js",
+    "static/css/main.dae92b9d.chunk.css.map": "/reactivatech-landing-page/static/css/main.dae92b9d.chunk.css.map",
+    "static/js/2.b42a9b19.chunk.js.LICENSE.txt": "/reactivatech-landing-page/static/js/2.b42a9b19.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactivatech-landing-page/static/media/logo.3473bb88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5baca36.js",
+    "static/js/2.b42a9b19.chunk.js",
+    "static/css/main.dae92b9d.chunk.css",
+    "static/js/main.86b59e15.chunk.js"
+  ]
+}
